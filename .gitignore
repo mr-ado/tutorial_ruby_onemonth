@@ -14,3 +14,11 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# added to project
+doc/
+*.swp
+*~
+.porject
+.DS_Store
+.idea
